@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "checked": true,
+      "item": "visit goutham.in"
+    },
+    {
+      "id": 2,
+      "checked": true,
+      "item": "Black chain"
+    },
+    {
+      "id": 3,
+      "checked": false,
+      "item": "AI"
+    }
+  ]
+}
